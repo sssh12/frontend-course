@@ -12,7 +12,7 @@
 
 ### 1. Modern JavaScript
 
-- [ ] ES6+ 핵심 문법 (Arrow Function, Destructuring, Modules)
+- [✅] ES6+ 핵심 문법 (Arrow Function, Destructuring, Modules)
 - [ ] 비동기 프로그래밍 (Promise, Async/Await)
 - [ ] DOM Manipulation
 
@@ -40,10 +40,11 @@
 
 ---
 
-## 💡 Today I Learned (TIL)
+## 💡 I Learned
 
 학습하면서 중요하게 깨달은 점이나 트러블슈팅 내용을 아래에 기록합니다.
 
 ---
 
 - 프로젝트 환경 설정 및 Git 연동 완료
+- var 대신 const/let 사용하기, 화살표 함수로 코드 줄이기
