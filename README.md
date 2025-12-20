@@ -13,7 +13,7 @@
 ### 1. Modern JavaScript
 
 - [x] ES6+ 핵심 문법 (Arrow Function, Destructuring, Modules)
-- [ ] 비동기 프로그래밍 (Promise, Async/Await)
+- [x] 비동기 프로그래밍 (Promise, Async/Await)
 - [ ] DOM Manipulation
 
 ### 2. TypeScript
@@ -49,3 +49,6 @@
 - 프로젝트 환경 설정 및 Git 연동 완료
 - var 대신 const/let 사용하기, 화살표 함수로 코드 줄이기
 - 구조 분해 할당으로 객체/배열 값 추출, Spread 연산자로 불변성 유지하며 객체 복사하기
+- async/await로 비동기 코드를 동기처럼 작성
+- Promise의 에러 처리를 try/catch/finally로 안전하게 구현
+- 콘솔 로그로 함수 실행 흐름을 단계별로 추적하며 디버깅하는 습관 들이기
