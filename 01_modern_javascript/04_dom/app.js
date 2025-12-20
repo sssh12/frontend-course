@@ -1,5 +1,5 @@
 // 다른 파일에서 함수 가져오기 (Import)
-import { increase, decrease, getCount } from "./counter.js";
+import { increase, decrease, getCount } from "./counter";
 
 // 1. DOM 요소 선택하기 (querySelector)
 // HTML의 id나 class를 이용해 요소를 자바스크립트로 가져옴.
