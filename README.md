@@ -12,7 +12,7 @@
 
 ### 1. Modern JavaScript
 
-- [✅] ES6+ 핵심 문법 (Arrow Function, Destructuring, Modules)
+- [x] ES6+ 핵심 문법 (Arrow Function, Destructuring, Modules)
 - [ ] 비동기 프로그래밍 (Promise, Async/Await)
 - [ ] DOM Manipulation
 
