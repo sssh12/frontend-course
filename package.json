@@ -1,0 +1,25 @@
+{
+  "name": "frontend-course",
+  "version": "1.0.0",
+  "description": "이 저장소는 **자바스크립트 기초**부터 **타입스크립트**, 그리고 **리액트 실전 프로젝트**까지의 학습 과정을 기록하는 공간입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sssh12/frontend-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sssh12/frontend-course/issues"
+  },
+  "homepage": "https://github.com/sssh12/frontend-course#readme",
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
