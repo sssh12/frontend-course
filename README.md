@@ -24,7 +24,7 @@
 
 ### 3. React Fundamentals
 
-- [ ] JSX & Components
+- [x] JSX & Components
 - [ ] Hooks (useState, useEffect, useRef)
 - [ ] Custom Hooks
 
@@ -61,3 +61,4 @@
 
 - 기본 타입(string, number 등)과 Interface를 활용해 객체 타입 정의
 - 제네릭(<T>)으로 재사용 가능한 함수/인터페이스 만들기. 유틸리티 타입(Partial, Pick, Omit)으로 기존 타입 변형해서 활용하기
+- JSX 문법(className, {}) 이해 및 컴포넌트 분리(Header, Main, Footer) 실습
