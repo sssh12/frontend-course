@@ -18,8 +18,8 @@
 
 ### 2. TypeScript
 
-- [ ] 정적 타입 시스템의 이해
-- [ ] Interface & Type Alias
+- [x] 정적 타입 시스템의 이해
+- [x] Interface & Type Alias
 - [ ] Generics & Utility Types
 
 ### 3. React Fundamentals
@@ -56,3 +56,7 @@
 - 콘솔 로그로 함수 실행 흐름을 단계별로 추적하며 디버깅하는 습관 들이기
 - DOM 요소 선택(querySelector) 및 이벤트 핸들링(addEventListener). ES Modules(import/export)로 로직 분리
 - 브라우저는 서버와 달리 파일 확장자를 자동으로 추측하지 않음
+
+## 2025-12-26
+
+- 기본 타입(string, number 등)과 Interface를 활용해 객체 타입 정의
