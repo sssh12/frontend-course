@@ -20,7 +20,7 @@
 
 - [x] 정적 타입 시스템의 이해
 - [x] Interface & Type Alias
-- [ ] Generics & Utility Types
+- [x] Generics & Utility Types
 
 ### 3. React Fundamentals
 
@@ -60,3 +60,4 @@
 ## 2025-12-26
 
 - 기본 타입(string, number 등)과 Interface를 활용해 객체 타입 정의
+- 제네릭(<T>)으로 재사용 가능한 함수/인터페이스 만들기. 유틸리티 타입(Partial, Pick, Omit)으로 기존 타입 변형해서 활용하기
